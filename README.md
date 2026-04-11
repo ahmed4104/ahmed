@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Machine Learning Engineer | Python Developer 🤖</h3>
+
+<h3 align="center">
+AI Developer 🤖 | Machine Learning Enthusiast | Python Developer
+</h3>
 
 <p align="center">
-🚀 Passionate about Artificial Intelligence, Machine Learning, and building smart systems.
+🚀 I build intelligent systems using Machine Learning and Data Analysis.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Machine+Learning+Engineer;Python+Specialist;Future+AI+Engineer" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Focused on **Machine Learning**
-- 🐍 Working with **Python**
-- 📚 Currently learning: Data Science & ML Algorithms
-- 💡 Goal: Work in a **Tech Company as an AI Engineer**
-- 🌍 Based in: Mauritania
+- 💡 Passionate about **Artificial Intelligence & Machine Learning**
+- 🐍 Strong in **Python Programming**
+- 📊 Skilled in **Data Analysis (Pandas, NumPy, Visualization)**
+- 🎯 Goal: Become a **Professional AI Engineer in a Tech Company**
+- 🌍 Based in Mauritania
 
 ---
 
@@ -23,18 +30,25 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=plotly"/>
   <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects (Coming Soon...)
+## 🚀 Projects
 
-🔹 I am currently building my first Machine Learning projects:
+🚧 Currently building real-world Machine Learning projects:
 
-- 📊 **Data Analysis Project** (Pandas + Visualization)
-- 🤖 **ML Model** (Prediction / Classification)
-- 🧠 **AI Mini Project** (Simple intelligent system)
+- 📊 **Data Analysis Project**  
+  → Data cleaning, visualization, insights
+
+- 🤖 **ML Prediction Model**  
+  → Classification / Prediction using Scikit-learn
+
+- 🧠 **AI Mini Project**  
+  → Simple intelligent system
 
 ---
 
@@ -53,10 +67,13 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-🔥 “Building the future with Artificial Intelligence.”
+🔥 "Turning data into intelligence."
 </p>
